@@ -32,13 +32,8 @@
 
 ### 📈 GitHub Stats (they're bad)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshwu&show_icons=true&theme=radical" alt="Josh's GitHub stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshwu&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 

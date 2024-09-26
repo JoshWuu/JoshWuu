@@ -11,7 +11,7 @@
 - 🌱 I’m pretty new to coding and I am currently learning **React.js, TypeScript, and Tailwind CSS**
 - 🔭 I’m working on **exciting projects in robotics and hackathons**
 - 💬 Ask me about **mechatronics, entrepreneurship, and engineering**
-- 💼 You can find my projects and initiatives on [My Website](https://joshwu.com)
+- 💼 You can find my projects and initiatives on [My Website](https://joshwu.co)
 
 ---
 

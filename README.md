@@ -34,6 +34,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshwuu&theme=radical)](https://git.io/streak-stats)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshwuu&show_icons=true&theme=radical)
+<a href="https://github.com/your-username">
+  <img src="https://activity-graph.herokuapp.com/graph?username=joshwuu&theme=react-dark" alt="Your Activity Graph" />
+</a>
 
 
 ---

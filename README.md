@@ -8,10 +8,9 @@
 ---
 
 ### About Me 🧑‍🚀
-- 🌱 I’m currently learning **React.js, TypeScript, and Tailwind CSS**
+- 🌱 I’m pretty new to coding and I am currently learning **React.js, TypeScript, and Tailwind CSS**
 - 🔭 I’m working on **exciting projects in robotics and hackathons**
 - 💬 Ask me about **mechatronics, entrepreneurship, and engineering**
-- 🎓 I'm the **Founder and President** of Bluevale Robotics Club
 - 💼 You can find my projects and initiatives on [My Website](https://joshwu.com)
 
 ---
@@ -31,7 +30,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats (they're bad)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joshwu&show_icons=true&theme=radical" alt="Josh's GitHub stats" />

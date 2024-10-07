@@ -30,13 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats (they're bad)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshwuu&theme=radical)](https://git.io/streak-stats)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshwuu&show_icons=true&theme=radical)
-
-
----
 
 ### 📫 Connect with Me!
 

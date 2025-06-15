@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Josh 👋</h1>
-<h3 align="center">👨‍💻 A beginner developer and innovator from Canada 🇨🇦</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joshwu&label=Profile%20views&color=0e75b6&style=flat" alt="joshwu" />

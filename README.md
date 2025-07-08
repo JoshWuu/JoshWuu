@@ -8,11 +8,13 @@
 ---
 
 ### About Me 🧑‍🚀
-- 🌱 I’m pretty new to coding and I am currently learning **React.js, TypeScript, and Tailwind CSS**
-- 🔭 I’m working on **exciting projects in robotics and hackathons**
-- 💬 Ask me about **mechatronics, entrepreneurship, and engineering**
+- 🔭 I'm passionate about **robotics, humanoid systems, and 3D printing**
+- 🌱 I'm currently learning **React.js, TypeScript, and Tailwind CSS**
+- 🛠️ I'm working on **exciting projects in robotics and hackathons**
+- 🎯 I'm fascinated by the intersection of **mechatronics, AI, and human-robot interaction**
+- 🖨️ I love **designing and 3D printing custom parts** for my robotics projects
+- 💬 Ask me about **robotics, humanoid development, 3D printing, mechatronics, and entrepreneurship**
 - 💼 You can find my projects and initiatives on [My Website](https://joshwu.co)
-
 ---
 
 ### 🛠️ Tech Stack & Tools I'm Learning

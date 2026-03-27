@@ -1,35 +1,58 @@
-# Hey, I'm Josh 👋
+<div align="center">
 
-**Mechatronics Engineering @ University of Waterloo**
+# josh wu
 
-## 🚀 What I'm About
+**mechatronics engineering · university of waterloo**
 
-- 🔧 Building at the intersection of **hardware + software + AI**
-- ♿ Passionate about **accessibility** and **assistive technology**
-- 🏆 Active in hackathons and engineering competitions
-- 🎨 Design everything from web apps to 3D-printed mechanisms
+hardware · software · AI · accessibility
 
----
+[![Portfolio](https://img.shields.io/badge/joshwu.ca-000?style=for-the-badge&logo=vercel&logoColor=white)](https://joshwu.ca/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josh-wu-waterloo)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josh.wu1@uwaterloo.ca)
 
-## 💻 I Work With
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
+</div>
 
 ---
 
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/-joshwu.ca-000000?style=flat-square&logo=vercel&logoColor=white)](https://joshwu.ca/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josh-wu-waterloo)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:josh.wu1@uwaterloo.ca)
+```
+i build things that sit at the edge of mechanical, electrical, and software systems —
+then make them smarter with AI and more accessible for everyone.
+```
 
 ---
 
-**💡 Always interested in collaborating on projects that make technology more accessible and helpful.**
+### what i do
+
+🔩 **mechatronics** — 3D-printed mechanisms, embedded systems, sensor fusion, control loops  
+🧠 **machine learning** — computer vision, neural nets, TensorFlow, real-time inference on hardware  
+🌐 **full-stack** — React, Next.js, web apps that actually ship  
+♿ **assistive tech** — building technology that removes barriers, not creates them  
+🏆 **hackathons** — consistently competing, consistently building weird and useful stuff
+
+---
+
+### stack
+
+```
+languages        python · c++ · javascript · typescript
+frontend         react · next.js · tailwind
+ml / ai          tensorflow · pytorch · opencv
+hardware         arduino · raspberry pi · solidworks · altium
+tools            git · docker · figma · linux
+```
+
+---
+
+### currently
+
+- 🔭 working on projects at the intersection of **embedded AI** and **accessibility**
+- 🛠️ prototyping hardware that thinks for itself
+- 📫 reach me at **josh.wu1@uwaterloo.ca**
+
+---
+
+<div align="center">
+
+*if it's accessible, it's better engineering.*
+
+</div>

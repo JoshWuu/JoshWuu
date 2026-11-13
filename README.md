@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # josh wu
@@ -16,4 +15,3 @@ i spend most of my time designing, building, and testing things in the real worl
 **check out my work at [joshwu.ca](https://joshwu.ca/)**
 
 </div>
-```
